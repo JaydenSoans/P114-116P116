@@ -1,0 +1,12 @@
+h3{
+    font-size: 20px !important;
+}
+
+.btn-success:hover {
+    background-color: rgb(105, 254, 12);
+    border-radius: 50px;
+}
+
+canvas{
+    border: 13px solid rgb(0, 0, 0);;
+}
